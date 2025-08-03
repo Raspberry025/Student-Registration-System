@@ -1,0 +1,5 @@
+Introduction to Programming,CS101
+Calculus,MTH201
+English Composition,ENG105
+General Physics,PHY110
+World History,HIS210
