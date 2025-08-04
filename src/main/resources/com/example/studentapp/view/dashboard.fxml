@@ -16,6 +16,7 @@
         <Button text="Register for Course" onAction="#goToRegisterCourse" minWidth="200" />
         <Button text="View Registered Courses" onAction="#goToViewCourses" minWidth="200" />
         <Button text="Logout" onAction="#handleLogout" minWidth="200" />
+        <Button text="View Registration Stats" onAction="#handleShowChart" />
     </VBox>
 
 </AnchorPane>

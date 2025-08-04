@@ -1,2 +1,2 @@
-Sam,dummy,Sambid Shrestha,sam123@gmail.com,BCS,4th
+Sam,sambid,Sambid Shrestha,sam123@gmail.com,BCS,4th
 Kai,kai,Kai Shrestha,kai123@gmail.com,BHM,4th
